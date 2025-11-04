@@ -23,6 +23,7 @@ It includes KPI cards, donut charts, and line charts to visualize performance tr
 2. Open it in **Power BI Desktop**.
 3. Explore the visuals and filters interactively.
 
----
+---![Dashboard Preview](dashboard.png)
+
 
 ✨ *Created by Fathima Hashim*
