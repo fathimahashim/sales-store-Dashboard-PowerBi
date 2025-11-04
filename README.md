@@ -22,8 +22,7 @@ It includes KPI cards, donut charts, and line charts to visualize performance tr
 1. Download the `.pbix` file.
 2. Open it in **Power BI Desktop**.
 3. Explore the visuals and filters interactively.
-
----![Dashboard Preview](dashboard.png)
+(dashboard.png)
 
 
 ✨ *Created by Fathima Hashim*
